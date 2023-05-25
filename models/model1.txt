@@ -1,0 +1,5 @@
+Embedding length: 10 
+LSTM units: 100 
+Dropout: 0.1 
+Epochs: 1 
+Batch size: 20
